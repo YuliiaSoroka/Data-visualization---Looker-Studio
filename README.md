@@ -1,5 +1,5 @@
 # Data-visualization---Looker-Studio
-# Google Merchandise Store Dashboard**  https://lookerstudio.google.com/s/loYviDw8Uug
+# Google Merchandise Store Dashboard https://lookerstudio.google.com/s/loYviDw8Uug
 
 **Description**
 
